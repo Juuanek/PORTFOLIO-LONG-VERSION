@@ -4,41 +4,32 @@
 
 
 ### <p align="center">CONTENT
-🟢 [ABOUT ME](#aboutme)
+🟢 [ABOUT ME](#aboutme) <p align="right">[PROJECTS](#projects) 🟢
 
-🟢 [PROJECTS](#projects) 
+🟢 [TEST CASES EXAMPLE](#testcases) <p align="right"> [BUG REPORT example](#bugreport) 🟢
 
-🟢 [TEST CASES example](#testcases) 
+🟢 [TEST REPORT example](#testreport) <p align="right"> [JIRA - BUG REPORT example](#jira) 🟢
 
-🟢 [BUG REPORT example](#bugreport) 
+🟢 [SQL tasks](#sql) <p align="right"> [PODCASTS ABOUT SOFTWARE TESTING](#podcasts) 🟢
 
-🟢 [TEST REPORT example](#testreport) 
+🟢 [COURSES](#courses) <p align="right"> [TOOLS](#tools) 🟢
 
-🟢 [JIRA - BUG REPORT example](#jira) 
-
-🟢 [SQL tasks](#sql) 
-
-🟢 [PODCASTS ABOUT SOFTWARE TESTING](#podcasts) 
-
-🟢 [COURSES](#courses) 
-
-🟢 [TOOLS](#tools) 
-
-🟢 [TECH SKILLS](#techskills) 
-
-🟢 [SOFT SKILLS](#softskills) 
+🟢 [TECH SKILLS](#techskills) <p align="right"> [SOFT SKILLS](#softskills) 🟢
 
 🟢 [BOOKS ABOUT TESTING](#books) 
  
 
   
 
-## <p align="center"><a name="aboutme"> ABOUT ME</a>
+## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
 TRESC DO WYPEŁNIENIA
 
 
 
-## <a name="projects">:mag_right: PROJECTS</a>
+## <p align="center"><a name="projects"> 📖 PROJECTS 📖 </a>
+TRESC DO WYPEŁNIENIA
+
+## <p align="center"><a name="testcases"> TEST CASES EXAMPLES</a>
 TRESC DO WYPEŁNIENIA
 
 
