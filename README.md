@@ -32,8 +32,11 @@ TRESC DO WYPEŁNIENIA
 ## <p align="center"><a name="testcases"> TEST CASES EXAMPLES</a>
 TRESC DO WYPEŁNIENIA
 
+## <p align="center"><a name="courses">  COURSES </a>
+TRESC DO WYPEŁNIENIA
 
-## <a name="books">BOOKS ABOUT TESTING</a>
+
+## <p align="center"><a name="books">BOOKS ABOUT TESTING</a>
 
 :arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
 
