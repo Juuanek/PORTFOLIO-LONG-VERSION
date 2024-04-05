@@ -22,7 +22,7 @@
   
 
 ## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
-TRESC DO WYPEŁNIENIA
+My name is Janek and I am developing myself in many things. Mostly software testing and all around IT. I would like to change my job to something with more opportunnities to grow and to learn continuously. I find it really enjoying to do anything on the computer. Since I was little I always liked to break something to have later something to fix. I did a lot and i think I know a lot about computers in every field. From installing windows to optimalization to components changing and even to writing some programms in Java for presonal purposes. I am an always learner. I did't know it till few weeks ago, when I realized that almost every time I do something I try to do it as best as I can and try to combine business and pleasure so when I watched a movie I watched it in other language, when I work I listed to podcast, when I drive listen to something inspiring or scientific. Almost all the time I try to puch myself to learn something new to invest in myself which is the best invesment.
 ## <p align="center"><a name="testcases"> 🤗 TEST CASES EXAMPLE 🤗 </a>
 TRESC DO WYPEŁNIENIA
 ## <p align="center"><a name="testreport"> 🤗 TEST REPORT example 🤗 </a>
