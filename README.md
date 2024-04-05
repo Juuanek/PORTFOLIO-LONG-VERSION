@@ -1,6 +1,6 @@
 # <p align="center"> SOFTWARE TESTER PORTFOLIO - JAN RYGLEWSKI  
 
-## <p align="center"><a href="https://www.linkedin.com/in/katarzyna-czekaj/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
+## <p align="center"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p>
 
 
 ### <p align="center">CONTENT
