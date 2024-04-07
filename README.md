@@ -41,9 +41,16 @@ TRESC DO WYPEŁNIENIA
 ## <p align="center"><a name="jira"> 🤗 JIRA - BUG REPORT example🤗 </a>
 TRESC DO WYPEŁNIENIA
 ## <p align="center"><a name="podcasts"> 🤗PODCASTS ABOUT SOFTWARE TESTING🤗 </a>
-TRESC DO WYPEŁNIENIA
+:arrow_forward: Testowanie oprogramowania podcast by Ping
+
+:arrow_forward: Fun with bugs podcast
+
+:arrow_forward: Tu sie testuje podcast
+
+:arrow_forward: Software Testing Podcast by KiwiQA Services
 ## <p align="center"><a name="tools"> 🤗TOOLS🤗 </a>
-TRESC DO WYPEŁNIENIA
+<p align="center"> 🛰️ JIRA 🛰️ TestLink 🛰️ MySQL 🛰️ PostgreSQL 🛰️ Basics of Java 🛰️ Git 🛰️ GitHub 🛰️ Basics of Postman 🛰️ Ubuntu 🛰️ InteliJIdea 🛰️Terminal 🛰️ Android Studio
+ 
 ## <p align="center"><a name="softskills"> 🤗SOFT SKILLS🤗 </a>
 TRESC DO WYPEŁNIENIA
 ## <p align="center"><a name="books">BOOKS ABOUT TESTING</a>
