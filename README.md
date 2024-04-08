@@ -52,8 +52,21 @@ TRESC DO WYPEŁNIENIA
 <p align="center"> 🛰️ JIRA 🛰️ TestLink 🛰️ MySQL 🛰️ PostgreSQL 🛰️ Basics of Java 🛰️ Git 🛰️ GitHub 🛰️ Basics of Postman 🛰️ Ubuntu 🛰️ InteliJIdea 🛰️Terminal 🛰️ Android Studio
  
 ## <p align="center"><a name="softskills"> 🤗SOFT SKILLS🤗 </a>
-TRESC DO WYPEŁNIENIA
-## <p align="center"><a name="books">BOOKS ABOUT TESTING</a>
+
+🤐 COMMUNICATION SKILLS <p align="right"> EMOTIONAL INTELIGENCE 🤭
+
+🩹 PROBLEM SOLVING <p align="right"> PATIANCE 🤔
+
+🔹 ATTENTION TO DETAIL <p align="right"> FOCUS 😶
+
+💣 CREATIVITY <p align="right"> SELF MOTIVATION ⛹️
+
+ 
+## <p align="center"><a name="books">BOOKS READ IN TERMS OF TESTING</a>
+
+:arrow_forward: (In progress) <a href="https://helion.pl/ksiazki/selenium-webdriver-w-javie-praktyczne-wprowadzenie-do-tworzenia-testow-systemowych-boni-garcia,sewebd.htm#format/d" target="_blank">Selenium WebDriver w Javie (Boni Garcia)</a>
+
+:arrow_forward: (In progress) <a href="https://testerzy.pl/baza-wiedzy/ksiazki/praktyka-testowania-zeszyt-cwiczen" target="_blank">Praktyka testowania (Radosław Smiglin)</a>
 
 :arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
 
