@@ -47,6 +47,8 @@ TRESC DO WYPEŁNIENIA
 
 :arrow_forward: Tu sie testuje podcast
 
+:arrow_forward: Szkoła Testowania by Mateusz Ratajczak Podcast
+
 :arrow_forward: Software Testing Podcast by KiwiQA Services
 ## <p align="center"><a name="tools"> 🤗TOOLS🤗 </a>
 <p align="center"> 🛰️ JIRA 🛰️ TestLink 🛰️ MySQL 🛰️ PostgreSQL 🛰️ Basics of Java 🛰️ Git 🛰️ GitHub 🛰️ Basics of Postman 🛰️ Ubuntu 🛰️ InteliJIdea 🛰️Terminal 🛰️ Android Studio
@@ -72,4 +74,12 @@ TRESC DO WYPEŁNIENIA
 
 :arrow_forward: <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
 
+## <p align="center"><a name="....."> 🤗 BOOKS I AM PASSIONATE ABOUT AND MY AUTHORITIES 🤗 </a>
+:arrow_forward: Andrew Huberman
+
+:arrow_forward: Brian Tracy
+
+:arrow_forward: Maciej Wieczorek
+
+:arrow_forward: Mathew Walker
 
