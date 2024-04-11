@@ -31,7 +31,17 @@ IN PROGRESS
 ## <p align="center"><a name="sql"> 🤗 SQL tasks🤗 </a>
 IN PROGRESS
 ## <p align="center"><a name="courses"> 🤗 COURSES🤗 </a>
-IN PROGRESS
+🔀 Practical course in software testing - Udemy - Rafal Podraza
+
+🔀 Basics of manual software testing - Udemy - Tester Oprogramowania
+
+🔀 Git: Become an Expert in Git & Github - Udemy - Jad Khalili
+
+🔀 Java MasterClass with Tim Buchalka - Udemy - (in progress)
+
+🔀 Postman - Rest API testing - Udemy - Tester Oprogramowania
+
+🔀 The complete SQL bootcamp - Udemy - Jose Portilla
 ## <p align="center"><a name="techskills"> 🤗 TECH SKILLS🤗 </a>
 IN PROGRESS
 ## <p align="center"><a name="projects"> 🤗 PROJECTS🤗 </a>
