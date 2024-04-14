@@ -58,7 +58,9 @@ IN PROGRESS
 
 
 ## <p align="center"><a name="projects"> 🤗 PROJECTS🤗 </a>
-IN PROGRESS
+- My projects and expirence is mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
+They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and a made some really good progress and became
+respected around companies for work that I do.
 
 
  
