@@ -7,11 +7,11 @@
 ### <p align="center">CONTENT
 🟢 [ABOUT ME](#aboutme) <p align="right">[PROJECTS](#projects) 🟢
 
-🟢 [TEST CASES EXAMPLE](#testcases) <p align="right"> [BUG REPORT example](#bugreport) 🟢
+🟢 [TEST CASES EXAMPLE](#testcases) <p align="right"> [BUG REPORT EXAMPLE](#bugreport) 🟢
 
-🟢 [TEST REPORT example](#testreport) <p align="right"> [JIRA - BUG REPORT example](#jira) 🟢
+🟢 [TEST REPORT example](#testreport) <p align="right"> [JIRA - BUG REPORT EXAMPLE](#jira) 🟢
 
-🟢 [SQL tasks](#sql) <p align="right"> [PODCASTS ABOUT SOFTWARE TESTING](#podcasts) 🟢
+🟢 [SQL TASKS](#sql) <p align="right"> [PODCASTS ABOUT SOFTWARE TESTING](#podcasts) 🟢
 
 🟢 [COURSES](#courses) <p align="right"> [TOOLS](#tools) 🟢
 
@@ -31,12 +31,12 @@ IN PROGRESS
 
 
  
-## <p align="center"><a name="testreport"> 🤗 TEST REPORT example 🤗 </a>
+## <p align="center"><a name="testreport"> 🤗 TEST REPORT EXAMPLE 🤗 </a>
 IN PROGRESS
 
 
  
-## <p align="center"><a name="sql"> 🤗 SQL tasks🤗 </a>
+## <p align="center"><a name="sql"> 🤗 SQL TASKS🤗 </a>
 
 ### <p align="left"><a href="https://github.com/Juuanek/PostgreSQLcourse" target="_blank">☑️ Visit my github repository with sql tasks </a></p>
 
@@ -58,18 +58,18 @@ IN PROGRESS
 
 
 ## <p align="center"><a name="projects"> 🤗 PROJECTS🤗 </a>
- :atom: My projects and expirence is mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
+ :atom:  My projects and expirence is mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
 They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and a made some really good progress and became
 respected around companies for work that I do.
 
 
  
-## <p align="center"><a name="bugreport"> 🤗 BUG REPORT example🤗 </a>
+## <p align="center"><a name="bugreport"> 🤗 BUG REPORT EXAMPLE🤗 </a>
 IN PROGRESS
 
 
  
-## <p align="center"><a name="jira"> 🤗 JIRA - BUG REPORT example🤗 </a>
+## <p align="center"><a name="jira"> 🤗 JIRA - BUG REPORT EXAMPLE🤗 </a>
 IN PROGRESS
 
 
@@ -116,4 +116,6 @@ IN PROGRESS
 :arrow_forward: Maciej Wieczorek
 
 :arrow_forward: Mathew Walker
+
+:arrow_forward: TedTalks
 
