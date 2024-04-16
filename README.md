@@ -23,7 +23,7 @@
   
 
 ## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
-My name is Janek and I am developing myself in many things. Mostly software testing and all around IT. I would like to change my job to something with more opportunnities to grow and to learn continuously. I find it really enjoying to do anything on the computer. Since I was little I always liked to break something to have later something to fix. I did a lot and i think I know a lot about computers in every field. From installing windows to optimalization to components changing and even to writing some programms in Java for presonal purposes. I am an always learner. I did't know it till few weeks ago, when I realized that almost every time I do something I try to do it as best as I can and try to combine business and pleasure so when I watched a movie I watched it in other language, when I work I listed to podcast, when I drive listen to something inspiring or scientific. Almost all the time I try to puch myself to learn something new to invest in myself which is the best invesment.
+My name is Janek and I am developing myself in many things. Mostly software testing and all around IT. I would like to change my job to something with more opportunnities to grow and to learn continuously. I find it really enjoying to do anything on the computer. Since I was little I always liked to break something to have later something to fix. I did a lot and i think I know a lot about computers in every field. From installing windows to optimalization to components changing and even to writing some programms in Java for presonal purposes. I am an always learner. I did't know it till few weeks ago, when I realized that almost every time I do something I try to do it as best as I can and try to combine business and pleasure so when I watched a movie I watched it in other language, when I work I listed to podcast, when I drive listen to something inspiring or scientific. Almost all the time I try to puch myself to learn something new to invest in myself which is the best invesment. I dedicated myself in infinite development of my true self. I am continously developing myself in becoming more and more better in every field i participate. "You can always become a little bit better in the things you do" I am adapting this quote to every field of my life. 
 
 
  ## <p align="center"><a name="testcases"> 🤗 TEST CASES EXAMPLE 🤗 </a>
@@ -72,6 +72,15 @@ IN PROGRESS
 ## <p align="center"><a name="jira"> 🤗 JIRA - BUG REPORT EXAMPLE🤗 </a>
 IN PROGRESS
 
+## <p align="center"><a name="jira"> 🤗 LANGUAGES 🤗 </a>
+As languages are really imporatnt part of every kind of job in IT I decided to write a littlwe bit about it and how it looks in my life. 
+- English - Thats why I am writing all my sources in English is to show you that I can use it and use it well I think. I wrote whole portfolio and CV in English 
+and I try to use it as much as I can to be better and better. I watch movies, listen to podcasts, read books in this language and have very little difficulties with some 
+unusual phrases, or words that I just don't know yet. I love this language and hope to use it in my future work almost all the time.
+
+Italian - I spent 7 months in Italy in two parts. First I went on practices, and second time I went to take part in an intern opportunity. As I knew I could learn one languge I decided
+it won't be hard for me to learn the other one. And I started to learn and became a communicative in this language in a really short period of time. I would describe myself in this language as A1 
+because I can exchange thoughts with italians. But it is not like I am native or something. Just huge basics and really good understanding in practice at work not from books.
 
  
 ## <p align="center"><a name="podcasts"> 🤗PODCASTS ABOUT SOFTWARE TESTING🤗 </a>
