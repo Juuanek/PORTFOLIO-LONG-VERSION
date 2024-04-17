@@ -11,13 +11,15 @@
 
 🟢 [TEST REPORT example](#testreport) <p align="right"> [JIRA - BUG REPORT EXAMPLE](#jira) 🟢
 
+🟢 [AUTHORITIES](#authorities) <p align="right"> [LANGUAGES](#languages) 🟢
+
 🟢 [SQL TASKS](#sql) <p align="right"> [PODCASTS ABOUT SOFTWARE TESTING](#podcasts) 🟢
 
 🟢 [COURSES](#courses) <p align="right"> [TOOLS](#tools) 🟢
 
 🟢 [BOOKS READ IN TERMS OF TESTING](#books) <p align="right"> [SOFT SKILLS](#softskills) 🟢
 
-🟢 [AUTHORITIES](#authorities) 
+
  
 
   
@@ -72,15 +74,21 @@ IN PROGRESS
 ## <p align="center"><a name="jira"> 🤗 JIRA - BUG REPORT EXAMPLE🤗 </a>
 IN PROGRESS
 
-## <p align="center"><a name="jira"> 🤗 LANGUAGES 🤗 </a>
-As languages are really imporatnt part of every kind of job in IT I decided to write a littlwe bit about it and how it looks in my life. 
+## <p align="center"><a name="languages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
+As languages are really important part of every kind of job in IT I decided to write a littlwe bit about it and how it looks in my life. 
 - English - Thats why I am writing all my sources in English is to show you that I can use it and use it well I think. I wrote whole portfolio and CV in English 
 and I try to use it as much as I can to be better and better. I watch movies, listen to podcasts, read books in this language and have very little difficulties with some 
 unusual phrases, or words that I just don't know yet. I love this language and hope to use it in my future work almost all the time.
 
-Italian - I spent 7 months in Italy in two parts. First I went on practices, and second time I went to take part in an intern opportunity. As I knew I could learn one languge I decided
+- Italian - I spent 7 months in Italy in two parts. First I went on practices, and second time I went to take part in an intern opportunity. As I knew I could learn one languge I decided
 it won't be hard for me to learn the other one. And I started to learn and became a communicative in this language in a really short period of time. I would describe myself in this language as A1 
 because I can exchange thoughts with italians. But it is not like I am native or something. Just huge basics and really good understanding in practice at work not from books.
+
+- Spanish - I learned this language for a few years before I started learning Italian. Spanish helped me better understand Italian language to become better. For now my Spanish understanding is a little outdated
+because of lack of time to manage everything going on around. But this is on my list after becoming really good in Italian to become fluent also in Spanish. What I can tell what even surprised me
+was when we had a visitation at work from Spanish mother factory, I could communicate with spanish people as well as almost anyone else and I almost did't need to use translator.
+
+Connecting my English skills with Italian and Spanish and confidency to speak in other language without fear of being rejected makes me a really international human being.
 
  
 ## <p align="center"><a name="podcasts"> 🤗PODCASTS ABOUT SOFTWARE TESTING🤗 </a>
