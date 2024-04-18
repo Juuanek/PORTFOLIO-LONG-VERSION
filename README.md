@@ -39,6 +39,8 @@ My name is Janek and I am developing myself in many things. Mostly software test
 
 
   ## <p align="center"><a name="courses"> 🧭 COURSES 🧭 </a>
+🔀 Passed uTest Academy with two nominations to tester of the week - uTest applause inc
+  
 🔀 Practical course in software testing - Udemy - Rafal Podraza
 
 🔀 Basics of manual software testing - Udemy - Tester Oprogramowania
@@ -109,7 +111,7 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 :arrow_forward: <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
 
-## <p align="center"><a name="authorities"> :accessibility: AUTHORITIES :accessibility: </a>
+## <p align="center"><a name="authorities"> 🤹 AUTHORITIES 🤹 </a>
 :arrow_forward: Andrew Huberman
 
 :arrow_forward: Brian Tracy
