@@ -1,15 +1,14 @@
  # <p align="center"> SOFTWARE TESTER PORTFOLIO         
 # <p align="center"> JAN RYGLEWSKI
-## <p align="center"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p> 
-## <p align="center"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">☑️ Visit my <b>GoogleDrive Links</b> </a></p>
 
 
 ### <p align="center">CONTENT
-🟢 [ABOUT ME](#aboutme) <p align="right">[PROJECTS](#projects) 🟢
+
+ 🟢 [ABOUT ME](#aboutme) <p align="right">[PROJECTS](#projects) 🟢
 
 🟢 [TEST CASES EXAMPLE](#testcases) <p align="right"> [BUG REPORT EXAMPLE](#bugreport) 🟢
 
-🟢 [TEST REPORT example](#testreport) <p align="right"> [JIRA - BUG REPORT EXAMPLE](#jira) 🟢
+🟢 [TEST REPORT EXAMPLE](#testreport) <p align="right"> [JIRA - BUG REPORT EXAMPLE](#jira) 🟢
 
 🟢 [AUTHORITIES](#authorities) <p align="right"> [LANGUAGES](#languages) 🟢
 
@@ -19,32 +18,27 @@
 
 🟢 [BOOKS READ IN TERMS OF TESTING](#books) <p align="right"> [SOFT SKILLS](#softskills) 🟢
 
+🟢 [LINKS](#links)
 
- 
+
+## <p align="left"><a name="links">  LINKS
+  - <p align="left"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p> 
+  - <p align="left"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">☑️ Visit my <b>GoogleDrive Links</b> </a></p>
+
+
 
   
 
 ## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
 My name is Janek and I am developing myself in many things. Mostly software testing and all around IT. I would like to change my job to something with more opportunnities to grow and to learn continuously. I find it really enjoying to do anything on the computer. Since I was little I always liked to break something to have later something to fix. I did a lot and i think I know a lot about computers in every field. From installing windows to optimalization to components changing and even to writing some programms in Java for presonal purposes. I am an always learner. I did't know it till few weeks ago, when I realized that almost every time I do something I try to do it as best as I can and try to combine business and pleasure so when I watched a movie I watched it in other language, when I work I listed to podcast, when I drive listen to something inspiring or scientific. Almost all the time I try to puch myself to learn something new to invest in myself which is the best invesment. I dedicated myself in infinite development of my true self. I am continously developing myself in becoming more and more better in every field i participate. "You can always become a little bit better in the things you do" I am adapting this quote to every field of my life. 
 
-
- ## <p align="center"><a name="testcases"> 🤗 TEST CASES EXAMPLE 🤗 </a>
-IN PROGRESS
-
-
  
-## <p align="center"><a name="testreport"> 🤗 TEST REPORT EXAMPLE 🤗 </a>
-IN PROGRESS
-
-
- 
-## <p align="center"><a name="sql"> 🤗 SQL TASKS🤗 </a>
+## <p align="center"><a name="sql"> ✍️ SQL TASKS ✍️ </a>
 
 ### <p align="left"><a href="https://github.com/Juuanek/PostgreSQLcourse" target="_blank">☑️ Visit my github repository with sql tasks </a></p>
 
 
-
-  ## <p align="center"><a name="courses"> 🤗 COURSES🤗 </a>
+  ## <p align="center"><a name="courses"> 🧭 COURSES 🧭 </a>
 🔀 Practical course in software testing - Udemy - Rafal Podraza
 
 🔀 Basics of manual software testing - Udemy - Tester Oprogramowania
@@ -55,24 +49,14 @@ IN PROGRESS
 
 🔀 Postman - Rest API testing - Udemy - Tester Oprogramowania
 
-🔀 The complete SQL bootcamp - Udemy - Jose Portilla
+🔀 The complete SQL bootcamp - Udemy - Jose Portilla (In progress)
 
 
-
-## <p align="center"><a name="projects"> 🤗 PROJECTS🤗 </a>
+## <p align="center"><a name="projects"> 📈 PROJECTS 📈 </a>
  :atom:  My projects and expirence is mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
 They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and a made some really good progress and became
 respected around companies for work that I do.
 
-
- 
-## <p align="center"><a name="bugreport"> 🤗 BUG REPORT EXAMPLE🤗 </a>
-IN PROGRESS
-
-
- 
-## <p align="center"><a name="jira"> 🤗 JIRA - BUG REPORT EXAMPLE🤗 </a>
-IN PROGRESS
 
 ## <p align="center"><a name="languages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
 As languages are really important part of every kind of job in IT I decided to write a littlwe bit about it and how it looks in my life. 
@@ -91,7 +75,7 @@ was when we had a visitation at work from Spanish mother factory, I could commun
 Connecting my English skills with Italian and Spanish and confidency to speak in other language without fear of being rejected makes me a really international human being.
 
  
-## <p align="center"><a name="podcasts"> 🤗PODCASTS ABOUT SOFTWARE TESTING🤗 </a>
+## <p align="center"><a name="podcasts"> 👁️‍🗨️ PODCASTS ABOUT SOFTWARE TESTING 👁️‍🗨️ </a>
 :arrow_forward: Testowanie oprogramowania podcast by Ping
 
 :arrow_forward: Fun with bugs podcast
@@ -101,10 +85,10 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 :arrow_forward: Szkoła Testowania by Mariusz Ratajczak Podcast
 
 :arrow_forward: Software Testing Podcast by KiwiQA Services
-## <p align="center"><a name="tools"> 🤗TOOLS🤗 </a>
+## <p align="center"><a name="tools"> 🔨TOOLS🔨 </a>
 <p align="center"> 🛰️ JIRA 🛰️ TestLink 🛰️ MySQL 🛰️ PostgreSQL 🛰️ Basics of Java 🛰️ Git 🛰️ GitHub 🛰️ Basics of Postman 🛰️ Ubuntu 🛰️ InteliJIdea 🛰️Terminal 🛰️ Android Studio
  
-## <p align="center"><a name="softskills"> 🤗SOFT SKILLS🤗 </a>
+## <p align="center"><a name="softskills"> 💁 SOFT SKILLS 💁 </a>
 
 🤐 COMMUNICATION SKILLS <p align="right"> EMOTIONAL INTELIGENCE 🤭
 
@@ -115,7 +99,7 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 💣 CREATIVITY <p align="right"> SELF MOTIVATION ⛹️
 
  
-## <p align="center"><a name="books">BOOKS READ IN TERMS OF TESTING</a>
+## <p align="center"><a name="books"> 📖 BOOKS READ IN TERMS OF TESTING 📖</a>
 
 :arrow_forward: (In progress) <a href="https://helion.pl/ksiazki/selenium-webdriver-w-javie-praktyczne-wprowadzenie-do-tworzenia-testow-systemowych-boni-garcia,sewebd.htm#format/d" target="_blank">Selenium WebDriver w Javie (Boni Garcia)</a>
 
@@ -125,7 +109,7 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 :arrow_forward: <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
 
-## <p align="center"><a name="authorities"> 🤗 AUTHORITIES 🤗 </a>
+## <p align="center"><a name="authorities"> :accessibility: AUTHORITIES :accessibility: </a>
 :arrow_forward: Andrew Huberman
 
 :arrow_forward: Brian Tracy
@@ -135,4 +119,17 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 :arrow_forward: Mathew Walker
 
 :arrow_forward: TedTalks
+
+ ## <p align="center"><a name="testcases">  TEST CASES EXAMPLE  </a>
+IN PROGRESS
+
+## <p align="center"><a name="testreport">  TEST REPORT EXAMPLE  </a>
+IN PROGRESS
+
+## <p align="center"><a name="bugreport">  BUG REPORT EXAMPLE </a>
+IN PROGRESS
+ 
+## <p align="center"><a name="jira">  JIRA - BUG REPORT EXAMPLE </a>
+IN PROGRESS
+
 
