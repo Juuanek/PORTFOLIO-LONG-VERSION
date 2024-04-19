@@ -1,7 +1,7 @@
  # <p align="center"> SOFTWARE TESTER PORTFOLIO         
 # <p align="center"> JAN RYGLEWSKI
 
-
+## ( INFORMACJA DLA MNIE, PRZEJRZEC CV I PORTFOLIO I LINKEDINN POD WZGLEDEM DROBNYCH BLEDOW )
 ### <p align="center">CONTENT
 
  🟢 [ABOUT ME](#aboutme) <p align="right">[PROJECTS](#projects) 🟢
@@ -26,11 +26,8 @@
   - <p align="left"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">☑️ Visit my <b>GoogleDrive Links</b> </a></p>
 
 
-
-  
-
 ## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
-My name is Janek and I am developing myself in many things. Mostly software testing and all around IT. I would like to change my job to something with more opportunnities to grow and to learn continuously. I find it really enjoying to do anything on the computer. Since I was little I always liked to break something to have later something to fix. I did a lot and i think I know a lot about computers in every field. From installing windows to optimalization to components changing and even to writing some programms in Java for presonal purposes. I am an always learner. I did't know it till few weeks ago, when I realized that almost every time I do something I try to do it as best as I can and try to combine business and pleasure so when I watched a movie I watched it in other language, when I work I listed to podcast, when I drive listen to something inspiring or scientific. Almost all the time I try to puch myself to learn something new to invest in myself which is the best invesment. I dedicated myself in infinite development of my true self. I am continously developing myself in becoming more and more better in every field i participate. "You can always become a little bit better in the things you do" I am adapting this quote to every field of my life. 
+My name is Janek and I am developing myself in many things. Mostly software testing and all around IT. I would like to change my job to something with more opportunnities to grow and to learn continuously. I find it really enjoying to do anything on the computer. Since I was little I always liked to break something to have later something to fix. I did a lot and i think I know a lot about computers in every field. From installing windows to optimalization to components changing and even to writing some programms in Java for presonal purposes. I am an always learner. I did't know it till few weeks ago, when I realized that almost every time I do something I try to do it as best as I can and try to combine business and pleasure so when I watched a movie I watched it in other language, when I work I listen to podcast, when I drive listen to something inspiring or scientific. Almost all the time I try to puch myself to learn something new to invest in myself which is the best invesment. I dedicated myself in infinite development of my true self. I am continously developing myself in becoming more and more better in every field i participate. "You can always become a little bit better in the things you do" I am adapting this quote to every field of my life. I 
 
  
 ## <p align="center"><a name="sql"> ✍️ SQL TASKS ✍️ </a>
@@ -56,8 +53,9 @@ My name is Janek and I am developing myself in many things. Mostly software test
 
 ## <p align="center"><a name="projects"> 📈 PROJECTS 📈 </a>
  :atom:  My projects and expirence is mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
-They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and a made some really good progress and became
-respected around companies for work that I do.
+They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and a made some really good progress and became respected around companies for work that I do. For now I am at bronze level of uTest Certification and I am constantly working on developing my skills in testing so I can ranka up in level. 
+
+ (Add pictures from uTest Statistics)
 
 
 ## <p align="center"><a name="languages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
