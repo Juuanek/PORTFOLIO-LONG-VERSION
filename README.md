@@ -1,7 +1,6 @@
  # <p align="center"> SOFTWARE TESTER PORTFOLIO         
 # <p align="center"> JAN RYGLEWSKI
 
-## ( INFORMACJA DLA MNIE, PRZEJRZEC CV I PORTFOLIO I LINKEDINN POD WZGLEDEM DROBNYCH BLEDOW )
 ### <p align="center">CONTENT
 
  🟢 [ABOUT ME](#aboutme) <p align="right">[PROJECTS](#projects) 🟢
@@ -121,14 +120,6 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 :arrow_forward: TedTalks
 
 
- ## <p align="center"><a name="testcases">  TEST CASES EXAMPLE  </a>
-IN PROGRESS
-
-## <p align="center"><a name="testreport">  TEST REPORT EXAMPLE  </a>
-IN PROGRESS
-
-## <p align="center"><a name="bugreport">  BUG REPORT EXAMPLE </a>
-IN PROGRESS
  
 ## <p align="center"><a name="jira">  JIRA - BUG REPORT EXAMPLE </a>
 IN PROGRESS
