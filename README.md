@@ -120,8 +120,3 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 :arrow_forward: TedTalks
 
 
- 
-## <p align="center"><a name="jira">  JIRA - BUG REPORT EXAMPLE </a>
-IN PROGRESS
-
-
