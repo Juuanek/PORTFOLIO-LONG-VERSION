@@ -3,21 +3,17 @@
 
 ### <p align="center">CONTENT
 
- 🟢 [ABOUT ME](#aboutme) <p align="right">[PROJECTS](#projects) 🟢
+🟢 [ABOUT ME](#aboutme) <p align="right"> [PODCASTS ABOUT SOFTWARE TESTING](#podcasts) 🟢 
+ 
+🟢 [SQL TASKS](#sql) <p align="right"> [TOOLS](#tools) 🟢 
 
-🟢 [TEST CASES EXAMPLE](#testcases) <p align="right"> [BUG REPORT EXAMPLE](#bugreport) 🟢
+🟢 [COURSES](#courses) <p align="right"> [SOFT SKILLS](#softskills) 🟢
 
-🟢 [TEST REPORT EXAMPLE](#testreport) <p align="right"> [JIRA - BUG REPORT EXAMPLE](#jira) 🟢
+🟢 [PROJECTS](#projects)  <p align="right"> [BOOKS READ IN TERMS OF TESTING](#books) 🟢
 
-🟢 [AUTHORITIES](#authorities) <p align="right"> [LANGUAGES](#languages) 🟢
+🟢 [LANGUAGES](#languages)  <p align="right"> [AUTHORITIES](#authorities) 🟢
 
-🟢 [SQL TASKS](#sql) <p align="right"> [PODCASTS ABOUT SOFTWARE TESTING](#podcasts) 🟢
 
-🟢 [COURSES](#courses) <p align="right"> [TOOLS](#tools) 🟢
-
-🟢 [BOOKS READ IN TERMS OF TESTING](#books) <p align="right"> [SOFT SKILLS](#softskills) 🟢
-
-🟢 [LINKS](#links)
 
 
 ## <p align="left"><a name="links">  LINKS
@@ -26,12 +22,12 @@
 
 
 ## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
-My name is Janek and I am developing myself in many things. Mostly software testing and all around IT. I would like to change my job to something with more opportunnities to grow and to learn continuously. I find it really enjoying to do anything on the computer. Since I was little I always liked to break something to have later something to fix. I did a lot and i think I know a lot about computers in every field. From installing windows to optimalization to components changing and even to writing some programms in Java for presonal purposes. I am an always learner. I did't know it till few weeks ago, when I realized that almost every time I do something I try to do it as best as I can and try to combine business and pleasure so when I watched a movie I watched it in other language, when I work I listen to podcast, when I drive listen to something inspiring or scientific. Almost all the time I try to puch myself to learn something new to invest in myself which is the best invesment. I dedicated myself in infinite development of my true self. I am continously developing myself in becoming more and more better in every field i participate. "You can always become a little bit better in the things you do" I am adapting this quote to every field of my life. I 
+My name is Janek and I am developing myself in many things. Mostly software testing and all around IT. I would like to change my job to something with more opportunities to grow and to learn continuously. I find it really enjoying to do anything on the computer. Since I was little I always liked to break something to have later something to fix. I did a lot and I think I know a lot about computers in every field. From installing windows to optimalization to components changing and even to writing some programs in Java for presonal purposes. I am an always learner. I did't know it till few weeks ago, when I realized that almost every time I do something I try to do it as best as I can and try to combine business and pleasure. So when I watch a movie I watch it in other language, when I work I listen to podcasts, when I drive I listen to something inspiring or scientific. Almost all the time I try to push myself to learn something new to invest in myself which is the best investment. I dedicated myself in lifelong development of my true self. I am continously developing myself in becoming more and more better in every field I participate. "You can always become a little bit better in the things you do" I am adapting this quote to every field of my life.
 
  
 ## <p align="center"><a name="sql"> ✍️ SQL TASKS ✍️ </a>
 
-### <p align="left"><a href="https://github.com/Juuanek/PostgreSQLcourse" target="_blank">☑️ Visit my github repository with sql tasks </a></p>
+### <p align="left"><a href="https://github.com/Juuanek/PostgreSQLcourse" target="_blank">☑️ Visit my github repository with SQL tasks </a></p>
 
 
   ## <p align="center"><a name="courses"> 🧭 COURSES 🧭 </a>
