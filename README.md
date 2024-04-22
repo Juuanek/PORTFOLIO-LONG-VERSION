@@ -39,33 +39,33 @@ My name is Janek and I am developing myself in many things. Mostly software test
 
 🔀 Git: Become an Expert in Git & Github - Udemy - Jad Khalili
 
-🔀 Java MasterClass with Tim Buchalka - Udemy - (in progress)
+🔀 Java MasterClass with Tim Buchalka - Udemy - (**in progress**)
 
 🔀 Postman - Rest API testing - Udemy - Tester Oprogramowania
 
-🔀 The complete SQL bootcamp - Udemy - Jose Portilla (In progress)
+🔀 The complete SQL bootcamp - Udemy - Jose Portilla (**in progress**)
 
 
 ## <p align="center"><a name="projects"> 📈 PROJECTS 📈 </a>
- :atom:  My projects and expirence is mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
-They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and a made some really good progress and became respected around companies for work that I do. For now I am at bronze level of uTest Certification and I am constantly working on developing my skills in testing so I can ranka up in level. 
+ :atom:  My projects and expirence are mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
+They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and I made some really good progress and became respected around companies for work that I do. For now I am at bronze level of uTest Certification and I am constantly working on developing my skills in testing so I can rank up in levels. 
 
  (Add pictures from uTest Statistics)
 
 
 ## <p align="center"><a name="languages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
-As languages are really important part of every kind of job in IT I decided to write a littlwe bit about it and how it looks in my life. 
+As languages are really important part of every kind of job in IT I decided to write a little about it and how it looks in my life. 
 - English - Thats why I am writing all my sources in English is to show you that I can use it and use it well I think. I wrote whole portfolio and CV in English 
-and I try to use it as much as I can to be better and better. I watch movies, listen to podcasts, read books in this language and have very little difficulties with some 
+and I try to use it as much as I can to be better and better. I watch movies, listen to podcasts, read books in this language and have very little difficulties overall. It may be a little more time consuming with some 
 unusual phrases, or words that I just don't know yet. I love this language and hope to use it in my future work almost all the time.
 
-- Italian - I spent 7 months in Italy in two parts. First I went on practices, and second time I went to take part in an intern opportunity. As I knew I could learn one languge I decided
-it won't be hard for me to learn the other one. And I started to learn and became a communicative in this language in a really short period of time. I would describe myself in this language as A1 
+- Italian - I spent 7 months in Italy in two parts. First I went on practices, and second time I went to take part in an intern opportunity. At that time I could speak almost fluently in English so I knew
+it won't be hard for me to learn the next one. And I started to learn and became a communicative in this language in a really short period of time. I would describe myself in this language as A1 
 because I can exchange thoughts with italians. But it is not like I am native or something. Just huge basics and really good understanding in practice at work not from books.
 
-- Spanish - I learned this language for a few years before I started learning Italian. Spanish helped me better understand Italian language to become better. For now my Spanish understanding is a little outdated
-because of lack of time to manage everything going on around. But this is on my list after becoming really good in Italian to become fluent also in Spanish. What I can tell what even surprised me
-was when we had a visitation at work from Spanish mother factory, I could communicate with spanish people as well as almost anyone else and I almost did't need to use translator.
+- Spanish - I have learned this language for a few years before I started learning Italian. Spanish helped me to better understand Italian language. For now my Spanish understanding is a little outdated
+because of lack of time. But this is on my list after becoming really good in Italian to become fluent also in Spanish. What I can tell (what even surprised me)
+was when we had a visitation at work from Spanish mother factory. I could communicate with spanish people as well as almost anyone else and I almost did't need to use a translator.
 
 Connecting my English skills with Italian and Spanish and confidency to speak in other language without fear of being rejected makes me a really international human being.
 
@@ -77,11 +77,11 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 :arrow_forward: Tu sie testuje podcast
 
-:arrow_forward: Szkoła Testowania by Mariusz Ratajczak Podcast
+:arrow_forward: Szkoła testowania by Mariusz Ratajczak podcast
 
-:arrow_forward: Software Testing Podcast by KiwiQA Services
+:arrow_forward: Software testing podcast by KiwiQA Services
 ## <p align="center"><a name="tools"> 🔨TOOLS🔨 </a>
-<p align="center"> 🛰️ JIRA 🛰️ TestLink 🛰️ MySQL 🛰️ PostgreSQL 🛰️ Basics of Java 🛰️ Git 🛰️ GitHub 🛰️ Basics of Postman 🛰️ Ubuntu 🛰️ InteliJIdea 🛰️Terminal 🛰️ Android Studio
+<p align="center"> 🛰️ JIRA 🛰️ TestLink 🛰️ MySQL 🛰️ PostgreSQL 🛰️ Basics of Java 🛰️ Android Studio  🛰️Terminal 🛰️ GitHub 🛰️ Basics of Postman 🛰️ Ubuntu 🛰️ InteliJIdea  🛰️ Git
  
 ## <p align="center"><a name="softskills"> 💁 SOFT SKILLS 💁 </a>
 
@@ -89,16 +89,16 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 🩹 PROBLEM SOLVING <p align="right"> PATIANCE 🤔
 
-🔹 ATTENTION TO DETAIL <p align="right"> FOCUS 😶
+🔹 ATTENTION TO DETAILS <p align="right"> FOCUS 😶
 
 💣 CREATIVITY <p align="right"> SELF MOTIVATION ⛹️
 
  
 ## <p align="center"><a name="books"> 📖 BOOKS READ IN TERMS OF TESTING 📖</a>
 
-:arrow_forward: (In progress) <a href="https://helion.pl/ksiazki/selenium-webdriver-w-javie-praktyczne-wprowadzenie-do-tworzenia-testow-systemowych-boni-garcia,sewebd.htm#format/d" target="_blank">Selenium WebDriver w Javie (Boni Garcia)</a>
+:arrow_forward: (**In progress**) <a href="https://helion.pl/ksiazki/selenium-webdriver-w-javie-praktyczne-wprowadzenie-do-tworzenia-testow-systemowych-boni-garcia,sewebd.htm#format/d" target="_blank">Selenium WebDriver w Javie (Boni Garcia)</a>
 
-:arrow_forward: (In progress) <a href="https://testerzy.pl/baza-wiedzy/ksiazki/praktyka-testowania-zeszyt-cwiczen" target="_blank">Praktyka testowania (Radosław Smiglin)</a>
+:arrow_forward: (**In progress**) <a href="https://testerzy.pl/baza-wiedzy/ksiazki/praktyka-testowania-zeszyt-cwiczen" target="_blank">Praktyka testowania (Radosław Smiglin)</a>
 
 :arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
 
