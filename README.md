@@ -47,7 +47,7 @@ My name is Janek and I am developing myself in many things. Mostly software test
 
 
 ## <p align="center"><a name="projects"> 📈 PROJECTS 📈 </a>
- :atom:  My projects and expirence are mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
+ My projects and expirence are mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
 They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and I made some really good progress and became respected around companies for work that I do. For now I am at bronze level of uTest Certification and I am constantly working on developing my skills in testing so I can rank up in levels. 
 
  (Add pictures from uTest Statistics)
@@ -103,6 +103,8 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 :arrow_forward: <a href="https://www.funwithbugs.com/landingpage/juz_jest_dostepna/" target="_blank">Podróż przez świat testowania (Karolina Pawłowska, Natalia Pawlak)</a>
 
 :arrow_forward: <a href="https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/e" target="_blank">Certyfikowany tester ISTQB. Poziom podstawowy (Adam Roman, Lucjan Stapp)</a>
+
+:arrow_forward: <a href="https://testerzy.pl/baza-wiedzy/ksiazki/rekrutacja-qa-nowa-ksiazka" target="_blank">Rekrutacja (Rafał Podraza)</a>
 
 ## <p align="center"><a name="authorities"> 🤹 AUTHORITIES 🤹 </a>
 :arrow_forward: Andrew Huberman
