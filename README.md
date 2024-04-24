@@ -50,7 +50,7 @@ My name is Janek and I am developing myself in many things. Mostly software test
  My projects and expirence are mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
 They performs services for huge companies around the world in testing their apps, devices, webs, and much more. I started testing on uTest in Januray 2024 and I made some really good progress and became respected around companies for work that I do. For now I am at bronze level of uTest Certification and I am constantly working on developing my skills in testing so I can rank up in levels. 
 
- (Add pictures from uTest Statistics)
+
 
 
 ## <p align="center"><a name="languages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
