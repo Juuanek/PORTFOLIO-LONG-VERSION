@@ -2,9 +2,10 @@
 # <p align="center"> JAN RYGLEWSKI
 
 ### <p align="center">CONTENT
-
-🟢 [**ABOUT ME**](#aboutme) <p align="right"> [**PODCASTS ABOUT SOFTWARE TESTING**](#podcasts) 🟢 
  
+
+🟢 [**ABOUT ME**](#aboutme) <p align="right"> [**PODCASTS ABOUT SOFTWARE TESTING**](#podcasts) 🟢
+
 🟢 [**SQL TASKS**](#sql) <p align="right"> [**TOOLS**](#tools) 🟢 
 
 🟢 [**COURSES**](#courses) <p align="right"> [**SOFT SKILLS**](#softskills) 🟢
