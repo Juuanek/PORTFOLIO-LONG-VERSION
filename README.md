@@ -14,6 +14,8 @@
 
 🟢 [**LANGUAGES**](#languages)  <p align="right"> [**AUTHORITIES**](#authorities) 🟢
 
+🟢 [**PASSIONS**](#passions)
+
 
 
 
@@ -108,7 +110,9 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 :arrow_forward: <a href="https://testerzy.pl/baza-wiedzy/ksiazki/rekrutacja-qa-nowa-ksiazka" target="_blank">Rekrutacja (Rafał Podraza)</a>
 
 ## <p align="center"><a name="authorities"> 🤹 AUTHORITIES 🤹 </a>
-:arrow_forward: Andrew Huberman
+:arrow_forward: Radosław Smiglin
+
+:arrow_forward: Rafał Podraza
 
 :arrow_forward: Brian Tracy
 
@@ -117,5 +121,7 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 :arrow_forward: Mathew Walker
 
 :arrow_forward: TedTalks
+
+## <p align="center"><a name="passions">  🚲 PASSIONS 🚲
 
 
