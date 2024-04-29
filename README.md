@@ -124,4 +124,16 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 ## <p align="center"><a name="passions">  🚲 PASSIONS 🚲
 
+I have got a lot of passions in my life, and I want to dac ci znac that this part is going to be a little longer than others but I suppose that If you have come this far you will be interested in this part as well. As I said previously I have got a lot of passions in my life. Probably more than I can handle and have to use as much effort as I can to plan everything carefuly to get as much happiness of my passions as I can. I think I would start with cycling. I am a cyclist since 2008 and with one year of professional cycling in Poland. Now I am starting in some local races and try to keep my fit up to date and collect as much trophies as I can :). If you have never ridden a bike as an "racing amateur" you won't even believe how much time it takes to train and all this things around this sport. But I got used to it and it makes me so happy and powerfull after a 4 hour ride with friends. I service all of my bikes by myself and also started my own Bike Service Company and I have a lot of zadowolonych customers. 
+
+disc golf 
+
+it 
+
+skladanie komputerów
+
+gry komputerowe
+
+elektronika ogołnie
+
 
