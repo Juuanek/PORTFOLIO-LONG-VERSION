@@ -14,7 +14,7 @@
 
 🟢 [**LANGUAGES**](#languages)  <p align="right"> [**AUTHORITIES**](#authorities) 🟢
 
-🟢 [**PASSIONS**](#passions)
+🟢 [**PASSIONS**](#passions) <p align="right"> [**PROGRAMMING LANGUAGES**](#programminglanguages) 🟢
 
 
 
@@ -134,5 +134,7 @@ skladanie komputerów
 gry komputerowe
 
 elektronika ogołnie
+
+## <p align="center"><a name="programminglanguages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 PROGRAMMING LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
 
 
