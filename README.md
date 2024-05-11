@@ -132,9 +132,9 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
  - I learned all needed knowledge about computers to be able to collect computer parts on my own and assemble my PC. I assembled 3 my own computers and few more for family and friends. I learned how to do it because of lack of money when I was young and I was trying to get my old weak parts as sharp as they can possibly be and when I had some money I started to replace them. After a few years of trying to have a computer that can handle my needs I realized I have almost no difficulty in assembeling or disassembeling or repairing a PCs. So when I had my dream computer ready I started to work on everybody's else computers and they were always happy and satisfied of how fast it can be because they never knew it can even work like this and for me this optimalisation was almost the question in my mind "How can I make my PC work faster without using any money" And I asked and I was looking for the answers and I found them.
 
-gry komputerowe
+ - When I was younger I used to play a lot of computer games. That is mostly why I needed to have a powerful computer to handle such requiring softwares. And it was the start of my journey through PCs efficiency and reliablity. And because we had no money to upgrade It was much harder to come up with ideas that can help improve performance in this kind of situation. 
 
-elektronika ogołnie
+- As I think about electronics I think it was something that was allways close to my heart which can sound a little strange. I had something in me that told me to break things apart look how they work and why they work. I usually broke things when I was taking them apart but later on I started to see that I am learning a lot when proceeding this process in almost every kind of thing that I am able to take apart. I am hugle fascinated about how things work from the inside and that is probably why now I know a lot about the insides about PCs and electronics allaround. 
 
 ## <p align="center"><a name="programminglanguages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 PROGRAMMING LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
 
