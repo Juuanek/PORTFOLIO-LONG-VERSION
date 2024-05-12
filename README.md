@@ -138,6 +138,6 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 ## <p align="center"><a name="programminglanguages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 PROGRAMMING LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
 
-Java
+- In march 2022 I decided to start my journey with learning how to programm applications in Java. At the very beginning I started to learn on my own from courses and every other resources available in the Internet, but lately I decided to widen my horizonts taking up postgraduate studies on Merito University in Chorzow. I finished those studies with best possible grade outcome. As I started to search for job and training opportunities I found out that all the things I did untill then was not enough to get a job. So I started to learn for every other frameworks, languages ... that may have an impact on my job opportunities outcome. After I while I found out the perfect kind of job that would perfectly fit into something that I would like to do in my future job. And it would be automation tests with Selenium Web Driver. When I first found out this kind of driver and possibilities and oppportunities I immediately decided that this is the kind of job that I want to do. But for now I have to postpone this idea to close learnings that I started and firstly get along with manual tesing and later move to automation testing. 
 
 
