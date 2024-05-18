@@ -1,4 +1,4 @@
- # <p align="center"> SOFTWARE TESTER PORTFOLIO         
+ # <p align="center"> PORTFOLIO         
 # <p align="center"> JAN RYGLEWSKI
 
 ### <p align="center">CONTENT
