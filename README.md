@@ -122,7 +122,7 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 :arrow_forward: TedTalks
 
-## <p align="center"><a name="passions">  🚲 PASSIONS (**IN DEVELOPMENT**)🚲
+## <p align="center"><a name="passions">  🚲 PASSIONS 🚲
 
  - I have got a lot of passions in my life, and I want to let you know that this part is going to be a little longer than others but I suppose that If you have come this far you will be interested in this part as well. As I said previously I have got a lot of passions in my life. Probably more than I can handle and have to use as much effort as I can to plan everything carefuly to get as much happiness of my passions as I can. I think I would start with cycling. I am a cyclist since 2008 with one year of professional cycling in Poland. Now I take part in some local races and try to keep my fit up to date and collect as much trophies as possible :). If you have never ridden a bike as an "racing amateur" you won't even believe how much time it takes to train and all the things around this sport. But I got used to it and it makes me so happy and powerfull after a 4 hour ride with friends. I service all of my bikes by myself and also started my own Bike Service Company and I have a lot of satisfied customers. 
 
@@ -136,7 +136,7 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 - As I think about electronics I think it was something that was allways close to my heart which can sound a little strange. I had something in me that told me to break things apart look how they work and why they work. I usually broke things when I was taking them apart but later on I started to see that I am learning a lot when proceeding this process in almost every kind of thing that I am able to take apart. I am hugle fascinated about how things work from the inside and that is probably why now I know a lot about the insides about PCs and electronics allaround. 
 
-## <p align="center"><a name="programminglanguages"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 PROGRAMMING LANGUAGES 🏴󠁧󠁢󠁥󠁮󠁧󠁿 </a>
+## <p align="center"><a name="programminglanguages"> 󠁧󠁢 PROGRAMMING LANGUAGES 󠁧󠁢󠁥 </a>
 
 - In march 2022 I decided to start my journey with learning how to programm applications in Java. At the very beginning I started to learn on my own from courses and every other resources available in the Internet, but lately I decided to widen my horizonts taking up postgraduate studies on Merito University in Chorzow. I finished those studies with best possible grade outcome. As I started to search for job and training opportunities I found out that all the things I did untill then was not enough to get a job. So I started to learn for every other frameworks, languages ... that may have an impact on my job opportunities outcome. After I while I found out the perfect kind of job that would perfectly fit into something that I would like to do in my future job. And it would be automation tests with Selenium Web Driver. When I first found out this kind of driver and possibilities and oppportunities I immediately decided that this is the kind of job that I want to do. But for now I have to postpone this idea to close learnings that I started and firstly get along with manual tesing and later move to automation testing. 
 
