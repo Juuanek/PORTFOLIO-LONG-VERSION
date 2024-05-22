@@ -46,7 +46,7 @@ My name is Janek and I am developing myself in many things. Mostly software test
 
 🔀 **Postman - Rest API testing** - Udemy - Tester Oprogramowania
 
-🔀 **The complete SQL bootcamp** - Udemy - Jose Portilla (**in progress**)
+🔀 **The complete SQL bootcamp** - Udemy - Jose Portilla 
 
 
 ## <p align="center"><a name="projects"> 📈 PROJECTS 📈 </a>
