@@ -120,6 +120,8 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 
 :arrow_forward: Mathew Walker
 
+:arrow_forward: J.K. Rowling
+
 :arrow_forward: TedTalks
 
 ## <p align="center"><a name="passions">  🚲 PASSIONS 🚲
