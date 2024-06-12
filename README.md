@@ -145,6 +145,8 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 - SQL -
 - HTML -
 - CSS -
+- SAP -
+- EXCEL -
 
 
 
