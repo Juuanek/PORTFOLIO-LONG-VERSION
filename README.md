@@ -147,6 +147,7 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 - CSS -
 - SAP -
 - EXCEL -
+- PYTHON??
 
 
 
