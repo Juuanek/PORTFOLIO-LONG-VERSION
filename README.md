@@ -145,7 +145,7 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 - SQL - I started to learn how to use sql because I started to see that this is kind of database language which is almost necessary in most of the projects. So I decided to learn how to use sql. I started with Mysql and then learned how to use it in PostgreSQL. I finished a few courses in this field and had a lot of exercises on my postgraduate studies. I find this field of IT really interesting and it makes me really satisfied when I am creating some kind of database or just searching through some database. I think it would be the right kind of field in my personal carrer to work in.
 - HTML -
 - CSS -
-- SAP -
+- SAP - SAP is one kind of software that we are using in our job industry so it is mandatory for me to constantly develope my skills that are connected with this software. Thats kind of system that is really clear for me but I can be a little bit overwhelming because of its huge possibilities. We use sap in our work for numerous processes and it helps us to control prodution quality. The biggest goal of sap in our industry is production quality.
 - EXCEL -
 - PYTHON??
 
