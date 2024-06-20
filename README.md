@@ -146,8 +146,8 @@ Connecting my English skills with Italian and Spanish and confidency to speak in
 - HTML -
 - CSS -
 - SAP - SAP is one kind of software that we are using in our job industry so it is mandatory for me to constantly develope my skills that are connected with this software. Thats kind of system that is really clear for me but I can be a little bit overwhelming because of its huge possibilities. We use sap in our work for numerous processes and it helps us to control prodution quality. The biggest goal of sap in our industry is production quality.
-- EXCEL - use at work
-- PYTHON??
+- EXCEL - I use excel in my current and in my few pervious jobs. In my current job I use it mostly as a software to supervise production quality and quantity and as a prevention of maintanance of some kind of defects in production that can be prevented. I am not a professional excel user but I think I am quite good at this software because its quite easy to use though really powerfull. 
+
 
 
 
