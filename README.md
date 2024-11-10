@@ -3,7 +3,7 @@
 
 ### <p align="center">CONTENT
 
-I know that this is probably too long version of portfolio but I see it may be interesting for somebody to better understand my point of view. And I think that if you read it all out than you must be really determined and interested in my persona
+I know that this is probably too long version of portfolio but I see it may be interesting for somebody to better understand my point of view. And I think that if you read it all out than you must be really determined and interested in my person
  
 
 🟢 [**ABOUT ME**](#aboutme) <p align="right"> [**PODCASTS ABOUT SOFTWARE TESTING**](#podcasts) 🟢
@@ -29,6 +29,11 @@ I know that this is probably too long version of portfolio but I see it may be i
 ## <p align="center"><a name="aboutme"> 🤗 ABOUT ME 🤗 </a>
 My name is Janek and I am developing myself in many things. Mostly software testing and all around IT. I would like to change my job to something with more opportunities to grow and to learn continuously. I find it really enjoying to do anything on the computer. Since I was little I always liked to break something to have later something to fix. I did a lot and I think I know a lot about computers in every field. From installing windows to optimalization to components changing and even to writing some programs in Java for presonal purposes. I am an always learner. I did't know it till few weeks ago, when I realized that almost every time I do something I try to do it as best as I can and try to combine business and pleasure. So when I watch a movie I watch it in other language, when I work I listen to podcasts, when I drive I listen to something inspiring or scientific. Almost all the time I try to push myself to learn something new to invest in myself which is the best investment. I dedicated myself in lifelong development of my true self. I am continously developing myself in becoming more and more better in every field I participate. "You can always become a little bit better in the things you do" I am adapting this quote to every field of my life.
 
+
+
+## <p align="center"><a name="aboutme"> WORK EXPERIENCE </a>
+
+Statscore Sp. z o.o.
  
 ## <p align="center"><a name="sql"> ✍️ SQL TASKS ✍️ </a>
 
