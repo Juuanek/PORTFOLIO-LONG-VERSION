@@ -34,7 +34,9 @@ My name is Janek and I am developing myself in many things. Mostly software test
 ## <p align="center"><a name="aboutme"> WORK EXPERIENCE </a>
 
 Statscore Sp. z o.o. Katowice
-Junior Platform Operations Representative - My job is to maintain the operations on the platform created by Lsports. All of the operations are kind of the operations on the database of sports data and all of the related circumstances.
+Junior Platform Operations Representative - 
+
+My job is to maintain the operations on the platform created by Lsports. All of the operations are kind of the operations on the database of sports data and all of the related circumstances. We are creating, storing and constantly changing thousends of fixtures at the same time so there is a lot of data that can be corrupted by any automation so my job is mostly about finding those issues and solving them up the way that it may not appear once again in the future.
  
 ## <p align="center"><a name="sql"> ✍️ SQL TASKS ✍️ </a>
 
