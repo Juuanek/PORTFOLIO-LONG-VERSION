@@ -31,7 +31,7 @@ My name is Janek and I am developing myself in many things. Mostly software test
 
 
 
-## <p align="center"><a name="aboutme"> WORK EXPERIENCE </a>
+## <p align="center"><a name="aboutme"> 🧑‍💼 WORK EXPERIENCE 🧑‍💼 </a>
 
 Statscore Sp. z o.o. Katowice
 Junior Platform Operations Representative - 
