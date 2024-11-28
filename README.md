@@ -21,7 +21,7 @@ I know that this is probably too long version of portfolio but I see it may be i
 
 
 
-## <p align="left"><a name="links">  LINKS
+## <p align="center"><a name="links">  LINKS
   - <p align="left"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p> 
   - <p align="left"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">☑️ Visit my <b>GoogleDrive Links</b> </a></p>
 
@@ -36,7 +36,7 @@ My name is Janek and I am developing myself in many things. Mostly software test
 Statscore Sp. z o.o. Katowice
 Junior Platform Operations Representative - 
 
-My job is to maintain the operations on the platform created by Lsports. All of the operations are kind of the operations on the database of sports data and all of the related circumstances. We are creating, storing and constantly changing thousends of fixtures at the same time so there is a lot of data that can be corrupted by any automation so my job is mostly about finding those issues and solving them up the way that it may not appear once again in the future.
+My job is to maintain the operations on the platform created by Lsports. All of the operations are kind of the operations on the database of sports data and all of the related circumstances. We are creating, storing and constantly changing thousends of fixtures at the same time so there is a lot of data that can be corrupted by any automation so my job is mostly about finding those issues and solving them up the way that it may not appear once again in the future. This is very creative and analitical work as the issues are mostly covered bu multiple layers of informations and it is really easy to find but really hard to solve. 
  
 ## <p align="center"><a name="sql"> ✍️ SQL TASKS ✍️ </a>
 
