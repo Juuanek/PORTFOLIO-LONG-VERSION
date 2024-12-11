@@ -1,7 +1,7 @@
  # <p align="center"> PORTFOLIO         
 # <p align="center"> JAN RYGLEWSKI
 
-### <p align="center">CONTENT
+### <p align="center">🧮 CONTENT 🧮
 
 I know that this is probably too long version of portfolio but I see it may be interesting for somebody to better understand my point of view. And I think that if you read it all out than you must be really determined and interested in my person
  
