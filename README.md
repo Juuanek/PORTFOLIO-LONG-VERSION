@@ -35,7 +35,7 @@ My name is Janek and I am developing myself in many things. Mostly software test
 
 Statscore Sp. z o.o. Katowice
 Junior Platform Operations Representative - 
-![Customer wow champion](https://github.com/user-attachments/assets/8fea5e2f-e349-433e-8c07-71187af41e6b)
+ ![Customer wow champion](https://github.com/user-attachments/assets/8fea5e2f-e349-433e-8c07-71187af41e6b)
 
 My job is to maintain the operations on the platform created by Lsports. All of the operations are kind of the operations on the database of sports data and all of the related circumstances. We are creating, storing and constantly changing thousends of fixtures at the same time so there is a lot of data that can be corrupted by any automation so my job is mostly about finding those issues and solving them up the way that it may not appear once again in the future. This is very creative and analitical work as the issues are mostly covered bu multiple layers of informations and it is really easy to find but really hard to solve. 
  
