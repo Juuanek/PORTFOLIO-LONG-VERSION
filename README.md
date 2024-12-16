@@ -21,7 +21,7 @@ I know that this is probably too long version of portfolio but I see it may be i
 
 
 
-## <p align="center"><a name="links">  LINKS
+## <p align="center"><a name="links">  🔗 LINKS 🔗
   - <p align="left"><a href="https://www.linkedin.com/in/janryglewski/" target="_blank">☑️ Visit my <b>LinkedIn</b> profile</a></p> 
   - <p align="left"><a href="https://drive.google.com/drive/folders/1x2-p6bBYxFYtkFEPApyIBXBj61kmXudF?usp=drive_link)" target="_blank">☑️ Visit my <b>GoogleDrive Links</b> </a></p>
 
