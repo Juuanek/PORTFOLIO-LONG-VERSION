@@ -59,6 +59,9 @@ My job is to maintain the operations on the platform created by Lsports. All of 
 
 🔀 **The complete SQL bootcamp** - Udemy - Jose Portilla 
 
+🔀 **Become an Expert in HTML** - Udemy - Jad Khalili
+
+
 
 ## <p align="center"><a name="projects"> 📈 PROJECTS 📈 </a>
  My projects and expirence are mostly thanks to uTest platfrom for testers around the world. This platform makes opportunity for every tester no matter who and where from.
